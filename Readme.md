@@ -36,6 +36,4 @@ It is pretty complete in terms of mathematical, scientific and plotting modules.
 
 ![](/media/image16.png)
 
-![](/media/image17.png)
 
-![](/media/image18.png)
